@@ -10,6 +10,9 @@
 - [👉 데이터분석 보고서](./docs/데이터분석_정의서.pdf) (본인 파트) 
 - [📘 최종 산출 문서](./docs/4기_DX_2반4팀_최종산출문서_최종.pdf)
 
+## 🎥 Demo Video
+
+[![Demo Video](https://img.youtube.com/vi/zlxcZP3GSrY/0.jpg)](https://www.youtube.com/watch?v=zlxcZP3GSrY)
 ---
 
 ## 📊 Project Overview (Business Insight)
